@@ -6,6 +6,9 @@ Nowadays, I enjoy working on side projects based on random ideas I get from time
 
 Want to connect? You can find me on:
 <p align="center">
+    <a href="https://jeangiraldoo.github.io">
+        <img src="https://img.shields.io/badge/Personal_website-purple">
+    </a>
     <a href="https://www.linkedin.com/in/jeanngiraldo/">
         <img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin">
     </a>
