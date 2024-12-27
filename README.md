@@ -12,4 +12,7 @@ Want to connect? You can find me on:
     <a href="https://www.linkedin.com/in/jeanngiraldo/">
         <img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin">
     </a>
+    <a href="https://lichess.org/@/Bloxus">
+        <img src="https://img.shields.io/badge/Lichess-%EF%BC%BC(%EF%BF%A3%E2%96%BD%EF%BF%A3)%EF%BC%8F-grey?logo=lichess">
+    </a>
 </p>
